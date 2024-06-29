@@ -1,5 +1,5 @@
 package Arrays;
-import java.util.Scanner;
+
 public class LargestAndSmallest {
 
     public static int getLargest(int arr[]){
