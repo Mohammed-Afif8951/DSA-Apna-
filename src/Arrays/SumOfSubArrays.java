@@ -49,7 +49,7 @@ public class SumOfSubArrays {
     
 
     public static void main(String[] args) {
-        int arr[] = {1,3,6,4,0};
+        int arr[] = {1,3,6};
         sumOfSubArrays(arr);
     }
 }
